@@ -1,6 +1,10 @@
 # AutoDoc-AI
 **AutoDoc AI** is an intelligent document summarization tool built with Streamlit. It allows users to upload PDF, DOCX, or TXT files, extracts the text, generates a concise summary using a transformer-based model (`t5-small`), and evaluates the summary quality with ROUGE scores. The app is designed for researchers, students, or professionals who need quick, accurate summaries of lengthy documents.
 
+## Demo
+
+Try the live app here: [AutoDoc AI on Streamlit](https://autodoc-ai-summay.streamlit.app/)
+
 ## Features
 
 - **File Upload**: Upload PDF, DOCX, or TXT files via a user-friendly Streamlit interface.
